@@ -10,9 +10,9 @@ The wordlists came from here:
 ## In Use
  - acrobat-africa
  - alaska-albert
+ - veteran-brown
 
 ## Available
- - veteran-brown
  - anita-fidel
  - caravan-brigade
  - museum-yankee
