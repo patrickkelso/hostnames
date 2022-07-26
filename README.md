@@ -11,9 +11,9 @@ The wordlists came from here:
  - acrobat-africa
  - alaska-albert
  - veteran-brown
+ - anita-fidel
 
 ## Available
- - anita-fidel
  - caravan-brigade
  - museum-yankee
  - danube-florida
