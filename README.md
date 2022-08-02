@@ -12,9 +12,9 @@ The wordlists came from here:
  - alaska-albert
  - veteran-brown
  - anita-fidel
+ - caravan-brigade
 
 ## Available
- - caravan-brigade
  - museum-yankee
  - danube-florida
  - pyramid-numeric
