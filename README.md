@@ -13,9 +13,9 @@ The wordlists came from here:
  - veteran-brown
  - anita-fidel
  - caravan-brigade
+ - museum-yankee
 
 ## Available
- - museum-yankee
  - danube-florida
  - pyramid-numeric
  - carpet-dinner
