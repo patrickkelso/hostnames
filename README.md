@@ -15,6 +15,7 @@ The wordlists came from here:
  - caravan-brigade
  - museum-yankee
  - danube-florida
+ - roman-conan
 
 ## Available
  - pyramid-numeric
@@ -24,7 +25,6 @@ The wordlists came from here:
  - magenta-serial
  - egypt-karl
  - cyclone-segment
- - roman-conan
  - mambo-clean
  - canoe-member
  - diesel-analog
