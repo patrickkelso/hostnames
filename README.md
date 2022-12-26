@@ -16,10 +16,10 @@ The wordlists came from here:
  - museum-yankee
  - danube-florida
  - roman-conan
-
-## Available
  - pyramid-numeric
  - carpet-dinner
+
+## Available
  - forward-ski
  - passive-edison
  - magenta-serial
