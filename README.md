@@ -18,9 +18,9 @@ The wordlists came from here:
  - roman-conan
  - pyramid-numeric
  - carpet-dinner
+ - forward-ski
 
 ## Available
- - forward-ski
  - passive-edison
  - magenta-serial
  - egypt-karl
