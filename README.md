@@ -19,10 +19,10 @@ The wordlists came from here:
  - pyramid-numeric
  - carpet-dinner
  - forward-ski
-
-## Available
  - passive-edison
  - magenta-serial
+
+## Available
  - egypt-karl
  - cyclone-segment
  - mambo-clean
