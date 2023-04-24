@@ -21,9 +21,9 @@ The wordlists came from here:
  - forward-ski
  - passive-edison
  - magenta-serial
+ - egypt-karl
 
 ## Available
- - egypt-karl
  - cyclone-segment
  - mambo-clean
  - canoe-member
