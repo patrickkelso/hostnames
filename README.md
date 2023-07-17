@@ -22,10 +22,10 @@ The wordlists came from here:
  - passive-edison
  - magenta-serial
  - egypt-karl
+ - mambo-clean
 
 ## Available
  - cyclone-segment
- - mambo-clean
  - canoe-member
  - diesel-analog
  - vibrate-brandy
