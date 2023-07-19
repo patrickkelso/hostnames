@@ -23,9 +23,9 @@ The wordlists came from here:
  - magenta-serial
  - egypt-karl
  - mambo-clean
+ - cyclone-segment
 
 ## Available
- - cyclone-segment
  - canoe-member
  - diesel-analog
  - vibrate-brandy
