@@ -24,10 +24,9 @@ The wordlists came from here:
  - egypt-karl
  - mambo-clean
  - cyclone-segment
+ - diesel-analog
 
 ## Available
- - canoe-member
- - diesel-analog
  - vibrate-brandy
  - vendor-epoxy
  - venice-bridge
